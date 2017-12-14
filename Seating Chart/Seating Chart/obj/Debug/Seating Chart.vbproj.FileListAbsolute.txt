@@ -1,0 +1,14 @@
+C:\Users\ip133225\AppData\Local\Temporary Projects\Seating Chart\bin\Debug\Seating Chart.exe.config
+C:\Users\ip133225\AppData\Local\Temporary Projects\Seating Chart\bin\Debug\Seating Chart.exe
+C:\Users\ip133225\AppData\Local\Temporary Projects\Seating Chart\bin\Debug\Seating Chart.pdb
+C:\Users\ip133225\AppData\Local\Temporary Projects\Seating Chart\bin\Debug\Seating Chart.xml
+C:\Users\ip133225\AppData\Local\Temporary Projects\Seating Chart\obj\Debug\Seating_Chart.Form1.resources
+C:\Users\ip133225\AppData\Local\Temporary Projects\Seating Chart\obj\Debug\Seating_Chart.Resources.resources
+C:\Users\ip133225\AppData\Local\Temporary Projects\Seating Chart\obj\Debug\Seating Chart.vbproj.GenerateResource.Cache
+C:\Users\ip133225\AppData\Local\Temporary Projects\Seating Chart\obj\Debug\Seating Chart.exe
+C:\Users\ip133225\AppData\Local\Temporary Projects\Seating Chart\obj\Debug\Seating Chart.xml
+C:\Users\ip133225\AppData\Local\Temporary Projects\Seating Chart\obj\Debug\Seating Chart.pdb
+C:\Users\ip133225\Desktop\Visual Basic\Chapter-8\Seating Chart\Seating Chart\bin\Debug\Seating Chart.exe.config
+C:\Users\ip133225\Desktop\Visual Basic\Chapter-8\Seating Chart\Seating Chart\obj\Debug\Seating Chart.exe
+C:\Users\ip133225\Desktop\Visual Basic\Chapter-8\Seating Chart\Seating Chart\obj\Debug\Seating Chart.xml
+C:\Users\ip133225\Desktop\Visual Basic\Chapter-8\Seating Chart\Seating Chart\obj\Debug\Seating Chart.pdb
